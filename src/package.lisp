@@ -3,7 +3,7 @@
 (defpackage #:random-uuid
   (:local-nicknames
    (#:rng #:seedable-rng)
-   (#:u #:golden-utils))
+   (#:u #:mfiano-utils))
   (:use #:cl)
   (:export
    #:from-string

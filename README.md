@@ -38,6 +38,6 @@ Check whether the given string is a valid representation of a UUID.
 
 ## License
 
-Copyright © Michael Fiano <mail@mfiano.net>.
+Copyright © 2019-2022 Michael Fiano <mail@mfiano.net>.
 
 Licensed under the MIT License.
