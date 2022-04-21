@@ -4,8 +4,9 @@
   :license "MIT"
   :homepage "https://git.mfiano.net/mfiano/random-uuid"
   :encoding :utf-8
-  :depends-on (#:mfiano-utils
-               #:seedable-rng)
+  :depends-on
+  (#:mfiano-utils
+   #:seedable-rng)
   :pathname "src"
   :serial t
   :components
